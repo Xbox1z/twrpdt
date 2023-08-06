@@ -1,8 +1,8 @@
 # twrpdt基础设备树生成工具
 > 如何使用?
 
-在[https://github.com/Xbox1z/twrpdt/releases](url)找到##主文件##和##AIK##工具 依赖文件不需要下载工具会自动下载
-打开软件(注意不要以管理员身份运行！) 将img解包出的文件夹拖入tdt中 然后运行 最后生成出来的文件会再C:\exc\下
+· 在[https://github.com/Xbox1z/twrpdt/releases](url)找到主文件和AIK工具 依赖文件不需要下载工具会自动下载
+· 打开软件(注意不要以管理员身份运行！) 将img解包出的文件夹拖入tdt中 然后运行 最后生成出来的文件会再C:\exc\下
 
 >AIK工具使用(Windows)
 
